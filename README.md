@@ -2,6 +2,17 @@
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+## To Update Github
+
+- Make file changes
+- Open `Git Bash` & navigate `cd /c/Users/User/Downloads/Portfolio.github.io`
+- `git add .`
+- `git commit -m "<Your message>"`
+- `git push`
+
+- check github pages at `https://cassie1975.github.io/Portfolio.github.io/`
+
+----
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
 image (with a new parallax implementation I'm testing) and scroll effects (powered by
